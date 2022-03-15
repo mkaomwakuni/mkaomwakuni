@@ -14,7 +14,7 @@
 During my spare time, I enjoy deepening my understanding of problem-solving approaches. The reason behind my profiles on various platforms for solving coding challenges.
 Some of them are:  
 
-[<img src="https://www.codewars.com/users/mkaomwakuni/badges/large" />](https://www.codewars.com/users/AtoZ)
+
 ### Connect with me:
 
 <img align="left" alt="#" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
