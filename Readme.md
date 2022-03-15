@@ -1,7 +1,6 @@
-### Hello World! 👋 I'm Abram - aka [Earl] 👋 
-###### My old github account was: [@Montreal_Ke](https://github.com/MONTREAL_254) (some of commits in repositories may be made by this account)
+### Hello World! 👋 This is Abram - 👋 
 
-##  'm a Developer, Content Creator,Tech nerd!!
+##  ' a Developer, Content Creator & a Tech nerd!!
 
 - 🔭 I’m currently developing Android applications
 - 🌱 I’m currently working with Java And Kotlin 
