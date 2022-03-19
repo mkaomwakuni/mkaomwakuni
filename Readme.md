@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Stream and Talk about Tech.
 -
-![Mkao github stats](https://github-readme-stats.vercel.app/api?username=mkao&show_icons=true&count_private=true&show_icons=true)
+![Mkao github stats](https://github-readme-stats.vercel.app/api?username=mkaomwuni&show_icons=true&count_private=true&show_icons=true)
 
 ![Mkao's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkao&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
 
