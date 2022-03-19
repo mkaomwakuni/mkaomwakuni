@@ -7,24 +7,12 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Stream and Talk about Tech.
+-
+![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=mkao&show_icons=true&count_private=true&show_icons=true)
 
-### Digital space 🌌
+![Hardik's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkao&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
 
-During my spare time, I enjoy deepening my understanding of problem-solving approaches. The reason behind my profiles on various platforms for solving coding challenges.
-Some of them are:  
+Viewer Count :
+ ![Visitor Count](https://profile-counter.glitch.me/{mkao}/count.svg)
 
-
-### Connect with me:
-
-<img align="left" alt="#" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="# | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="# | Discord" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
-<img align="left" alt="# | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<br />
-
-### Languages and Tools : 🔧
-
-<img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img align="left" alt="Kotlin" width="60px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>
-<img align="left" alt="Android" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
-<img align="left" alt="SQL" width="60px" src="https://user-images.githubusercontent.com/86869773/147871217-064ac51e-921b-4079-b01b-a9e076b2c3df.png"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mkao&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
