@@ -1,13 +1,12 @@
 ### Hello World! 👋 This is Abram - 👋 
 
-##  ' a Developer, Content Creator & a Tech nerd!!
+##  ' a Droider, Content Creator & a Tech nerd!!
 
 - 🔭 I’m currently developing Android applications
 - 🌱 I’m currently working with Java And Kotlin 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Stream and Talk about Tech.
--
 ![Mkao github stats](https://github-readme-stats.vercel.app/api?username=mkaomwakuni&show_icons=true&count_private=true&show_icons=true)
 
 ![Mkao's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaomwakuni&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
