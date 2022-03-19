@@ -10,9 +10,9 @@
 -
 ![Mkao github stats](https://github-readme-stats.vercel.app/api?username=mkaomwakuni&show_icons=true&count_private=true&show_icons=true)
 
-![Mkao's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkao&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
+![Mkao's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaomwakuni&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
 
 Viewer Count :
- ![Visitor Count](https://profile-counter.glitch.me/{mkao}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{mkaomwakuni}/count.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mkao&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mkaomwakuni&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
