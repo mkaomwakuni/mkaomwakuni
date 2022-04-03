@@ -4,7 +4,7 @@
 </h4>
 <p align="left">
 My name is Mkao Mwakuni, and I enjoy building Mobile Applications using Kotlin.
- ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
+ ⚡ Fun fact: Intrigued by smart thing's in tech.
 <h5 align="left">
 
 ![Madona's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaomwakuni&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&count_private=true)
