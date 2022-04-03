@@ -1,30 +1,22 @@
-<h3 align="center">
-  Welcome to Mkao 's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-- 🔭 I’m currently developing Android applications
-- 🌱 I’m currently working with Java And Kotlin 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Stream and Talk about Tech.
+<h4 align="left">
+ Hi there 👋🏾
+</h4>
+<p align="left">
+My name is Mkao Mwakuni, and I enjoy building Mobile Applications using Kotlin.
+ ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
+<h5 align="left">
 
-### 💻 Software and tools
+![Madona's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaomwakuni&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&count_private=true)
 
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+	
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mkaomwakuni&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaomwakuni&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/mkaomwakuni?tab=repositories)
+	
+<h3>Where to find me</h3>
+</a><a href="https://twitter.com/earl89" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mkao" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-![Mkao github stats](https://github-readme-stats.vercel.app/api?username=mkaomwakuni&show_icons=true&count_private=true&show_icons=true)
-
-![Mkao's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaomwakuni&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
-
-Viewer Count :
- ![Visitor Count](https://profile-counter.glitch.me/{mkaomwakuni}/count.svg)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mkaomwakuni&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+	
+------------
