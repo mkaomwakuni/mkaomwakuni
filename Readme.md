@@ -3,7 +3,7 @@
  Hi there 👋🏾
 </h4>
 <p align="left">
-My name is Mkao Mwakuni, and I enjoy building Mobile Applications using Kotlin.
+This is Mkao Mwakuni, and I enjoy building Mobile Applications using Kotlin.
  ⚡ Fun fact: Intrigued by smart thing's in tech.
 <h5 align="left">
 
