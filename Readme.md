@@ -16,9 +16,8 @@ This is Mkao Mwakuni, and I enjoy building Mobile Applications using Kotlin.
 	
 <h3>Where to find me</h3>
 </a><a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mkao" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://exercism.org/profiles/mkaomwakuni" target="_blank">
+<a href="https://hyperskill.org/profile/270655829" target="_blank"><img alt="hyperskil" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></a>
 </a> 
-</p>
 
 	
 ------------
