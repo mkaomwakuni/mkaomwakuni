@@ -1,19 +1,30 @@
+ <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, This Is Mkao</h1>
 
-<h4 align="left">
- Hi there 👋🏾
-</h4>
-<p align="left">
-This is Mkao Mwakuni, and I enjoy building Mobile Applications using Kotlin.
-<h5 align="left">
+<h3 align="center">A Mobile Developer.</h3>
 
-![Mkao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaomwakuni&show_icons=true&theme=radical)
+- I’m currently working on Android projects
+- A  Open Source contributor to Kotlin, Jetpack Compose projects
+- Currently learning Compose Multiplatform
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaomwakuni&layout=compact)
-	
-<h3>Where to find me</h3>
-</a><a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mkao" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
+### SOCIAL ME! 😊
+
+ <p align="center">
+<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
+<a href="htps://www.linkedin.com/in/mkao" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://hyperskill.org/profile/270655829" target="_blank"><img alt="hyperskil" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></a>
-</a> 
+</p>
 
-	
-------------
+
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mkaomwakuni&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaomwakuni&hide=html&layout=compact&theme=dark" /></td>      
+    </tr>   
+  </table>
+</center>
+
