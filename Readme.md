@@ -4,7 +4,6 @@
 
 - I’m currently working on Android projects
 - A  Open Source contributor to Kotlin, Jetpack Compose projects
-- Currently learning Compose Multiplatform
 
 
 
