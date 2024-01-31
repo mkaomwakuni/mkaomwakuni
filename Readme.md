@@ -2,7 +2,7 @@
 
 <h3 align="center">A Mobile Developer.</h3>
 
-- I’m currently working on Android projects
+- I’m passionately working on Android projects
 - A  Open Source contributor to Kotlin, Jetpack Compose projects
 
 
