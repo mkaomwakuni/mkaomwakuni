@@ -11,9 +11,8 @@
 ### SOCIAL ME! 😊
 
  <p align="center">
-<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <a href="htps://www.linkedin.com/in/mkao" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://hyperskill.org/profile/270655829" target="_blank"><img alt="hyperskil" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></a>
+<a href="" target="_blank"><img alt="hyperskil" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></a>
 </p>
 
 
