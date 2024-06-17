@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img width="780px" height="380px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mkaomwakuni&theme=transparent"/>
+            <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mkaomwakuni&theme=transparent"/>
         </td>
     </tr>
   </table>
