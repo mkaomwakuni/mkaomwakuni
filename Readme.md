@@ -11,14 +11,6 @@
 📚 Continuous learner—always looking for new ways to improve **performance, UI/UX, and scalability**.  
 
 ---
-### 🛠 Tech Stack  
-
-🚀 **Languages & Frameworks:**  
-- **Kotlin | Java | Jetpack Compose | Android SDK | Firebase| Kotlin Multiplatform | Compose Multiplatfprm**  
-- **MVVM Architecture | Dependency Injection (Hilt) |Koin | Room Database**  
-- **REST APIs | Retrofit |Ktor|  Coroutines & Flow etc**  
-
----
 ### 🌐 Let's Connect  
 
 📬 Reach out, collaborate, or just geek out over mobile development!  
