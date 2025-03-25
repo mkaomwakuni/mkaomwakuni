@@ -1,4 +1,4 @@
-<h1 align="left">🚀 Hey, I'm Mkao! 👋</h1>
+<h1 align="left"> 👋 Mkao! </h1>
 
 <h3 align="left">👨‍💻 Mobile Developer | Open Source Enthusiast</h3>
 
