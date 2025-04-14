@@ -49,13 +49,3 @@
     </td>
   </tr>
 </table>
-
----
-### ⚡ Fun Fact  
-💻 First mobile app? **I love philosophy,!**  
-
-🔥 Always up for **learning new things and pushing boundaries in mobile tech.**  
-
----
-
-🚀 **Let’s build something awesome together!** 💡  
