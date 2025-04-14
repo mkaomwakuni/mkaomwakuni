@@ -5,15 +5,15 @@
 ---
 ### 📱 About Me  
 
-💡 Passionate about **mobile development**, I thrive on building **scalable, high-performance** applications.  
+💡Building **scalable, high-performance** applications.  
 ⚡ Open-source enthusiast.  
-🛠 Currently working with **Compose Multiplatformm, Jetpack Compose, Kotlin MultiPlatform**.  
+🛠  **Jetpack Compose, Kotlin MultiPlatform**.  
  
 
 ---
 ### 🌐 Let's Connect  
 
-📬 Reach out, collaborate, or just geek out over mobile development!  
+📬 Reach out, collaborate!  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mkao" target="_blank">
