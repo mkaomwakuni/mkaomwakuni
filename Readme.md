@@ -5,10 +5,10 @@
 ---
 ### 📱 About Me  
 
-💡 Passionate about **mobile development**, I thrive on building **scalable, high-performance** applications that enhance user experiences.  
-⚡ Open-source enthusiast, contributing to projects that **empower the developer community**.  
+💡 Passionate about **mobile development**, I thrive on building **scalable, high-performance** applications.  
+⚡ Open-source enthusiast.  
 🛠 Currently working with **Compose Multiplatformm, Jetpack Compose, Kotlin MultiPlatform**.  
-📚 Continuous learner—always looking for new ways to improve **performance, UI/UX, and scalability**.  
+ 
 
 ---
 ### 🌐 Let's Connect  
