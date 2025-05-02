@@ -1,7 +1,3 @@
-<h1 align="left"> 👋 Mkao! </h1>
-
-<h3 align="left">👨‍💻 Mobile Developer | Open Source Enthusiast</h3>
-
 ---
 ### 📱 About Me  
 
@@ -27,10 +23,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mkaomwakuni&label=Profile%20views&color=0e75b6&style=flat" alt="mkaomwakuni" />
-</p>
-
 ---
 ### 📈 GitHub Stats  
 
@@ -42,10 +34,5 @@
     <td>
       <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaomwakuni&hide=html&layout=compact&theme=dark" />
     </td>      
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mkaomwakuni&theme=transparent" />
-    </td>
   </tr>
 </table>
