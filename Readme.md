@@ -29,10 +29,10 @@
 <table>
   <tr>
     <td>
-      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Mkaomwakuni&count_private=true&show_icons=true&theme=dark&layout=compact" />
+         <a href="https://github.com/mkaomwakuni"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mkaomwakuni&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
     </td>
     <td>
-      <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaomwakuni&hide=html&layout=compact&theme=dark" />
+      <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaomwakuni&hide=html&layout=compact&theme=dark" />
     </td>      
   </tr>
 </table>
