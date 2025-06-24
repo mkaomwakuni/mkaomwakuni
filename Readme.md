@@ -31,8 +31,8 @@
     <td>
          <a href="https://github.com/mkaomwakuni"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mkaomwakuni&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
     </td>
-    <td>
+<!--     <td>
       <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaomwakuni&hide=html&layout=compact&theme=dark" />
-    </td>      
+    </td>       -->
   </tr>
 </table>
