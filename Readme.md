@@ -4,6 +4,7 @@
 💡Building **scalable, high-performance** applications.  
 ⚡ Open-source enthusiast.  
 🛠  **Jetpack Compose, Kotlin MultiPlatform**.  
+Follow To learn  building Backend and Kotlin Multiplaform 
  
 
 ---
