@@ -1,11 +1,3 @@
----
-### 📱 About Me  
-
-💡Building **scalable, high-performance** applications.  
-⚡ Open-source enthusiast.  
-🛠  **Backend Development, Android, Java and Kotlin MultiPlatform**.  
-Follow To learn  building Backend and Kotlin Multiplaform 
- 
 
 ---
 ### 🌐 Let's Connect  
